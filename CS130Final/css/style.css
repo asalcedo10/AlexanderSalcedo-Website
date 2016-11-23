@@ -1,0 +1,110 @@
+body { 
+    padding-top: 55px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    background-image: url('../images/palms2.jpg');
+    background-color: lightgray;
+    background-position: top;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 113%;
+    }
+
+nav {
+    font-family: 'Overlock SC', cursive;
+    padding-right: 82px;} /* Font & Padding */
+
+h1 { 
+    padding-bottom: 0px;
+    }
+
+h5, h6 {
+    font-family: 'Overlock SC', cursive;
+    color: #4C8ABD}
+
+footer {
+    background-color: #4C8ABD;
+    margin-bottom: 5%;
+    }
+
+embed {
+    width: 80%;
+    margin-left: auto;
+    margin-bottom: 60px;
+    } /* PDF Resume and Portfolio */ 
+
+.logos:hover {
+    width: 15%;
+    } /* Profile icon links */
+
+.btn-default  {
+    margin: 6px;
+    margin-top: 11px;
+    background-color: steelblue;
+    font-size: 12px;
+    font-weight: 800;
+    border-color: steelblue;
+    } 
+.btn-default:hover {
+    background-color: white;
+    font-color: white;
+    border-color:steelblue;
+    } /* Nav button states */
+
+.home-link {
+    color: darkgray;
+    } /* footer home link */
+
+.form-area {   
+    background-color: #FAFAFA;
+	padding: 10px 40px 60px;
+	margin: 10px 0px 60px;
+	border: 1px solid GREY;
+    } /* Contact Form */
+
+.caption {
+    font-family:'Overlock SC',cursive;
+    font-weight: 300;
+    color: #4C8ABD;
+    background-color: rgba(74, 137, 201, 0.82);
+    margin-top: 2.5%;
+    } /* Home gallery */
+
+#name {
+    padding-top: 3px;
+    font-weight: 500;
+    font-family: 'Overlock SC', cursive;
+    font-size: 23px;
+    color: #4C8ABD} /* Bio/Pic card */
+
+#top-header { 
+    font-family: 'Denk One', sans-serif;
+    font-size: 42px;
+    color: lightgray;} 
+
+#top-banner {
+    background-color: lightgray;
+    float: left;
+    width: 20%;
+    } /* Bio/Pic card */
+
+#middle-text { 
+    font-family: 'Overlock SC', cursive;
+    text-indent: 30px;
+    margin-left: 22%;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 12%;
+    background-color: rgba(74, 137, 201, 0.82);
+    border-radius: 15px;
+    color: azure;
+    padding: 25px;} /* Bio paragraph */
+
+#footertext {
+    color: white
+} 
+
+#indexgallery {
+    margin-bottom: 2.5%;
+    } /* Home image gallery */
